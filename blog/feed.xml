@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Diario de Trading Blog</title>
+        <link>https://rafaelshono.github.io/tra/blog</link>
+        <description>The best place to stay up-to-date with the latest Diario de Trading news and events.</description>
+        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Diario de Trading Blog</title>
+            <url>https://rafaelshono.github.io/tra/img/favicon.ico</url>
+            <link>https://rafaelshono.github.io/tra/blog</link>
+        </image>
+        <copyright>Copyright © 2021 Rafael Shono Trade</copyright>
+        <item>
+            <title><![CDATA[O que é Analise Técnica]]></title>
+            <link>https://rafaelshono.github.io/tra/blog/2017/10/24/new-version-1.0.0.html</link>
+            <guid>https://rafaelshono.github.io/tra/blog/2017/10/24/new-version-1.0.0.html</guid>
+            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Muitos investidores analisam ações com base em seus fundamentos - como receita, avaliação ou tendências do setor - mas os fatores fundamentais nem sempre se refletem no preço de mercado. A análise técnica procura prever os movimentos de preços examin...</p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Adding RSS Support]]></title>
+            <link>https://rafaelshono.github.io/tra/blog/2017/09/26/adding-rss.html</link>
+            <guid>https://rafaelshono.github.io/tra/blog/2017/09/26/adding-rss.html</guid>
+            <pubDate>Tue, 26 Sep 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
+            <link>https://rafaelshono.github.io/tra/blog/2017/09/25/testing-rss.html</link>
+            <guid>https://rafaelshono.github.io/tra/blog/2017/09/25/testing-rss.html</guid>
+            <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[New Blog Post]]></title>
+            <link>https://rafaelshono.github.io/tra/blog/2017/04/10/blog-post-two.html</link>
+            <guid>https://rafaelshono.github.io/tra/blog/2017/04/10/blog-post-two.html</guid>
+            <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Aprendendo Analise Técnica Clássica]]></title>
+            <link>https://rafaelshono.github.io/tra/blog/2016/03/11/blog-post.html</link>
+            <guid>https://rafaelshono.github.io/tra/blog/2016/03/11/blog-post.html</guid>
+            <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Prever qual sera o próximo movimento do mercado, é uma tarefa díficil, mas com ajuda da estatistica e da psicologia de comportamental, junto com novas ferramentas disponíveis graças aos computadores modernos, pode-se obter até 90% de assertividade ao tentar prever para qual lado o mercado ira andar, isso é claro exige conhecimento e muito estudo do gráfico em que se opera.</p>
+]]></description>
+        </item>
+    </channel>
+</rss>
