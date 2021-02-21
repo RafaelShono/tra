@@ -1,2 +1,0 @@
-# tra
-Só observo
